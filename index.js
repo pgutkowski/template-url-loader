@@ -1,0 +1,1 @@
+module.exports = require('./template-url-loader.js');

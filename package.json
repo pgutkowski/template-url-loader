@@ -1,0 +1,15 @@
+{
+  "name": "template-loader",
+  "version": "0.0.1",
+  "description": "webpack loader for external angular libraries which declare templates by url",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pawelgutkowski",
+  "license": "ISC",
+  "devDependencies": {
+    "fastparse": "^1.1.1",
+    "loader-utils": "^0.2.14"
+  }
+}
