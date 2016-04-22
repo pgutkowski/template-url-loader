@@ -1,15 +1,22 @@
 {
-  "name": "template-loader",
-  "version": "0.0.1",
+  "name": "template-url-loader",
+  "version": "0.0.2",
   "description": "webpack loader for external angular libraries which declare templates by url",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PawelGutkowski/template-url-loader.git"
+  },
   "scripts": {
     "test": "test"
   },
-  "author": "pawelgutkowski",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "fastparse": "^1.1.1",
     "loader-utils": "^0.2.14"
-  }
+  },
+    "authors": [
+      "agrzybkowski",
+      "pgutkowski"
+  ]
 }
